@@ -18,10 +18,13 @@
     "html-webpack-plugin": "^4.5.0",
     "react": "^16.13.1",
     "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0",
     "webpack": "^4.44.2",
     "webpack-dev-server": "^3.11.0"
   },
   "devDependencies": {
+    "css-loader": "^4.3.0",
+    "style-loader": "^1.2.1",
     "webpack-cli": "^3.3.12"
   },
   "description": ""

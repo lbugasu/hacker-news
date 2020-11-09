@@ -11,5 +11,9 @@
     "serverInstall": "cd server && npm install"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "@reduxjs/toolkit": "^1.4.0",
+    "redux": "^4.0.5"
+  }
 }
